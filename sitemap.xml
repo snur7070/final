@@ -1,0 +1,38 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/whitemans-creek-trout-migration/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/about-this-website/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact-us-and-get-involved/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/snur7070/
+        </loc>
+    </url>
+</urlset>
